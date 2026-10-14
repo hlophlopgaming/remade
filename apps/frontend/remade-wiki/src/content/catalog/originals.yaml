@@ -1153,3 +1153,9 @@
   name: Sage Accounting
   url: https://www.sage.com/en-gb/sage-business-cloud/sage-accounting/
   category: productivity
+
+- slug: the-legend-of-zelda-twilight-princess
+  name: 'The Legend of Zelda: Twilight Princess'
+  url: https://www.nintendo.com/en-gb/Games/Wii/The-Legend-of-Zelda-Twilight-Princess-283138.html
+  category: games
+  aliases: [Twilight Princess]

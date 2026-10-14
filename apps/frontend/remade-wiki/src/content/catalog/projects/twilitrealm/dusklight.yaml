@@ -1,0 +1,14 @@
+slug: dusklight
+name: Dusklight
+repository: https://github.com/TwilitRealm/dusklight
+website: https://twilitrealm.dev/
+docs: https://twilitrealm.dev/install/
+originals: [the-legend-of-zelda-twilight-princess]
+category: games
+languages: [C++, C]
+platforms: [Windows, macOS, Linux, Android]
+status: stable
+compatibility: partial
+description: Reverse-engineered reimplementation of Twilight Princess based on the zeldaret/tp decompilation, with accuracy improvements, enhancements, and customization options.
+license: CC0-1.0
+limitations: Requires your own copy of the original game; copyrighted game assets are not provided. The Korean Wii release is unsupported. Wii discs use the GameCube HUD and other GameCube-specific behavior.
